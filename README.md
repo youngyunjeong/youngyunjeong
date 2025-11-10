@@ -1,7 +1,7 @@
 ## Youngyun Jeong
 > <img src="https://avatars.githubusercontent.com/u/26896445" width="400px">
 
-I’m Youngyun Jeong, a Senior Software Engineer — 10+ years in EdTech, HRTech & cloud-native startups.
+I’m Youngyun Jeong, a Senior Software Engineer — 10+ years in EdTech, HRTech & startups.
 
 ## Contact
 > email : optyyie@gmail.com
