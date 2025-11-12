@@ -7,8 +7,6 @@ I’m Youngyun Jeong, a Senior Software Engineer — 10+ years in EdTech, HRTech
 > email : optyyie@gmail.com
 > 
 > linkedin : https://www.linkedin.com/in/youngyun-jeong/?locale=en_US
->
-> twitter : https://twitter.com/_yy_me
 
 ## Experience
 
