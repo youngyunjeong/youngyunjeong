@@ -20,7 +20,7 @@ Developed an AI-powered English learning platform 1hour(1hour.ai) designed for e
 - Integrated Azure OpenAI, Gemini, and custom AI models into a unified backend system that supports age-appropriate vocabulary, sentence, and translation exercises.
 - Designed a monitoring and fallback architecture ensuring reliable AI task execution and content quality consistency for young learners.
 
-**Python, Django, LLM, OCR, STT, ffmpeg, Datadog, AWS ECS, Posgresql**
+**Python, Django, LLM, OCR, STT, ffmpeg, AWS ECS, Posgresql, Datadog**
 
 
 ### Specter | May 2023 - Apr 2024
@@ -32,7 +32,7 @@ Developed a reputation check platform Specter(specter.co.kr) for corporate recru
 - Designed and implemented API integrations for major clients (e.g., LG Careers, Career KIA).
 - Developed AI-based applicant analysis and insight generation modules.
 
-**Java, Spring Boot, Python, Django, AWS ECS, Posgresql, OpenAI LLM**
+**Java, Spring Boot, Python, Django, AWS ECS, Posgresql, OpenAI LLM, Sentry**
 
 ### GIGPLANNER | Jun 2022 - May 2023
 > Software Engineer, Founding Engineer
@@ -42,7 +42,7 @@ Founding engineer responsible for full-cycle design and operation of the service
 - Developed AI-based self-introduction cover letter managing service (service later acquired by Specter).
 - Supported spin-off and M&A process between GIGPLANNER and Specter.
 
-**Java, Spring Boot, React.js, GCP, MySQL**
+**Java, Spring Boot, React.js, GCP, MySQL, OpenAI LLM, Sentry**
 
 ### Crowdworks | June 2021 - July 2022
 > Back-end Developer
